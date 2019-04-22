@@ -20,3 +20,5 @@ There are two main jobs of maven while packaging buid
 You will use "target/java" folder as a zip to upload it as Lambda Layer code.
 
 The jar inside target folder will be used as function code which will use the  Layer(dependencies)
+
+Know more about AWS Lambda Layer feture https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
